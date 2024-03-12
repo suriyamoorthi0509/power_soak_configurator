@@ -1,0 +1,163 @@
+{
+    "SALVAJOR": [
+      {
+        "id": 384,
+        "category": "DisposerConeSize",
+        "categoryId": "1",
+        "value": "12",
+        "desc": "12\"",
+        "hide": "n"
+      },
+      {
+        "id": 385,
+        "category": "DisposerConeSize",
+        "categoryId": "2",
+        "value": "15",
+        "desc": "15\"",
+        "hide": "n"
+      },
+      {
+        "id": 386,
+        "category": "DisposerConeSize",
+        "categoryId": "3",
+        "value": "18",
+        "desc": "18\"",
+        "hide": "n"
+      }
+    ],
+    "HOBART": [
+      {
+        "id": 387,
+        "category": "DisposerConeSize",
+        "categoryId": "4",
+        "value": "15",
+        "desc": "15\"",
+        "hide": "n"
+      },
+      {
+        "id": 388,
+        "category": "DisposerConeSize",
+        "categoryId": "5",
+        "value": "18",
+        "desc": "18\"",
+        "hide": "n"
+      }
+    ],
+    "INSINKERATOR": [
+      {
+        "id": 389,
+        "category": "DisposerConeSize",
+        "categoryId": "6",
+        "value": "12",
+        "desc": "12\"",
+        "hide": "n"
+      },
+      {
+        "id": 390,
+        "category": "DisposerConeSize",
+        "categoryId": "7",
+        "value": "15",
+        "desc": "15\"",
+        "hide": "n"
+      },
+      {
+        "id": 391,
+        "category": "DisposerConeSize",
+        "categoryId": "8",
+        "value": "18",
+        "desc": "18\"",
+        "hide": "n"
+      }
+    ],
+    "REDGOAT": [
+      {
+        "id": 392,
+        "category": "DisposerConeSize",
+        "categoryId": "9",
+        "value": "12",
+        "desc": "12\"",
+        "hide": "n"
+      },
+      {
+        "id": 393,
+        "category": "DisposerConeSize",
+        "categoryId": "10",
+        "value": "15",
+        "desc": "15\"",
+        "hide": "n"
+      },
+      {
+        "id": 394,
+        "category": "DisposerConeSize",
+        "categoryId": "11",
+        "value": "18",
+        "desc": "18\"",
+        "hide": "n"
+      }
+    ],
+    "SOMAT": [
+      {
+        "id": 395,
+        "category": "DisposerConeSize",
+        "categoryId": "12",
+        "value": "12",
+        "desc": "12\"",
+        "hide": "n"
+      },
+      {
+        "id": 396,
+        "category": "DisposerConeSize",
+        "categoryId": "13",
+        "value": "18",
+        "desc": "18\"",
+        "hide": "n"
+      }
+    ],
+    "WASTEKING": [
+      {
+        "id": 397,
+        "category": "DisposerConeSize",
+        "categoryId": "14",
+        "value": "18",
+        "desc": "18\"",
+        "hide": "n"
+      }
+    ],
+    "MASTER": [
+      {
+        "id": 398,
+        "category": "DisposerConeSize",
+        "categoryId": "15",
+        "value": "18",
+        "desc": "18\"",
+        "hide": "n"
+      }
+    ],
+    "Salvajor":[
+      {
+        "id": 399,
+        "category": "DisposerConeSize",
+        "categoryId": "16",
+        "value": "12",
+        "desc": "12\"",
+        "hide": "n"
+      },
+      {
+        "id": 400,
+        "category": "DisposerConeSize",
+        "categoryId": "16",
+        "value": "15",
+        "desc": "15\"",
+        "hide": "n"
+      },
+      {
+        "id": 401,
+        "category": "DisposerConeSize",
+        "categoryId": "16",
+        "value": "18",
+        "desc": "18\"",
+        "hide": "n"
+      }
+
+    ]
+  }

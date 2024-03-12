@@ -1,0 +1,135 @@
+.Circle {
+  width: 24px;
+  height: 24px;
+  margin: 0 9px;
+  cursor: pointer;
+  float: right;
+}
+.Header-pending {
+  height: 69px;
+}
+
+.pending {
+  font-family: Poppins-SemiBold;
+  font-size: 20px;
+  color: #ffffff !important;
+}
+.pdf {
+  width: 30px;
+  height: 30px;
+  float: right;
+  transition: transform .2s; /* Animation */
+}
+
+.pdf:hover {
+  transform: scale(1.5);
+}
+
+.Jobs {
+  margin: 1rem;
+}
+.cardbutton {
+
+  font-family: Poppins-Medium;
+  font-size: 12px;
+  color: #ffffff;
+  border-radius: 0 !important;
+  float: right;
+  border: none;
+  margin-top: 10px;
+}
+.dashboardbutton {
+ 
+  font-family: Poppins-Medium;
+  font-size: 12px;
+  color: #ffffff;
+  border-radius: 15px;
+  float: right;
+  border: none;
+  padding: 5px 12px;
+}
+.card {
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius:1rem;
+}
+.JobId {
+  font-family: Poppins-SemiBold;
+  font-size: 14px;
+  color: #000105;
+}
+.Final {
+  font-family: Poppins-Medium;
+  font-size: 14px;
+  color: #000105;
+}
+.Date {
+  font-family: Poppins-Regular;
+  font-size: 12px;
+  color: #000105;
+}
+.col2 {
+  margin-top: 18px;
+}
+.btn-primary:hover {
+  color: #fff;
+  background-color: #0b5ed7;
+  border-color: #0a58ca;
+}
+
+
+.popupbutton {
+  color: #fff;
+  width: 125px;
+  height: 42px;
+  background-color: #004b8e !important;
+  border: none;
+  margin-left: 11rem;
+  font-size: 14px;
+  margin-left: 11rem rem;
+  font-size: 14px;
+  margin-top: 7px;
+}
+.Popuppower {
+  margin: 1rem;
+}
+.popupinput {
+  width: 85% !important;
+}
+
+.pendright {
+  display: flex;
+}
+
+.RefershButton{
+  left: 10px;
+  bottom: 38px;
+  color: #fff;
+  width: 10rem !important;
+  height: 43px;
+  background-color: #004b8e !important;
+  border: none;
+  margin: 0 0 20px;
+  font-size: 14px;
+  border-radius: 7px;
+  margin-right: 1.5rem;
+}
+
+.first-row{
+  margin-top: 20px;
+ 
+}
+
+.searchInput{
+  height: 43px;
+  width: 300px;
+  margin-right: 1.5rem;
+
+}
+dl, ol, ul {
+  margin-right: 1.5rem;
+}
+.pagination {
+  --bs-pagination-padding-x: 0.75rem;
+  --bs-pagination-padding-y: 0.575rem;
+}

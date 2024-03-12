@@ -1,0 +1,54 @@
+{
+    "34_30": [
+      {
+        "id": 402,
+        "category": "PanRack",
+        "categoryId": "2",
+        "value": "Full SS Sheet Pan Rack System ( 3 & 6)",
+        "desc": "Full SS Sheet Pan Rack System ( 3 & 6)",
+        "hide": "n"
+      },
+      {
+        "id": 438,
+        "category": "PanRack",
+        "categoryId": "18",
+        "value": "3 SS Sheet Pan Rack Set",
+        "desc": "3 SS Sheet Pan Rack Set",
+        "hide": "n"
+      },
+      {
+        "id": 439,
+        "category": "PanRack",
+        "categoryId": "19",
+        "value": "6 SS Sheet Pan Rack Set",
+        "desc": "6 SS Sheet Pan Rack Set",
+        "hide": "n"
+      }
+    ],
+    "34_36": [
+      {
+        "id": 402,
+        "category": "PanRack",
+        "categoryId": "2",
+        "value": "Full SS Sheet Pan Rack System ( 3 & 6)",
+        "desc": "Full SS Sheet Pan Rack System ( 3 & 6)",
+        "hide": "n"
+      },
+      {
+        "id": 438,
+        "category": "PanRack",
+        "categoryId": "18",
+        "value": "3 SS Sheet Pan Rack Set",
+        "desc": "3 SS Sheet Pan Rack Set",
+        "hide": "n"
+      },
+      {
+        "id": 439,
+        "category": "PanRack",
+        "categoryId": "19",
+        "value": "6 SS Sheet Pan Rack Set",
+        "desc": "6 SS Sheet Pan Rack Set",
+        "hide": "n"
+      }
+    ]
+  }

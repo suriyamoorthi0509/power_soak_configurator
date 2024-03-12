@@ -1,0 +1,176 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body,
+html {
+  min-height: 100%;
+}
+body {
+  background-color: #fafafa !important;
+  width: 100%;
+  height: 100%;
+}
+img {
+  outline: none;
+}
+@font-face {
+  font-family: Poppins-SemiBold;
+  src: url(./Poppins/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: Poppins-Medium;
+  src: url(./Poppins/Poppins-Medium.ttf);
+}
+@font-face {
+  font-family: Poppins-Regular;
+  src: url(./Poppins/Poppins-Regular.ttf);
+}
+.Headerlogo {
+  width: 300px;
+  height: 70px;
+  
+ 
+}
+.headerbar {
+  background-color: #ffffff !important;
+  height: 90px;
+  box-shadow: 0 2px 10px 0 var(--pale-grey);
+  border: solid 1px #f0f4ff;
+}
+
+.AdminBox {
+  box-shadow: 0 2px 10px 4px rgba(0, 0, 0, 0.04);
+  border: solid 1px var(--very-light-blue);
+  margin: 1rem 5rem;
+  padding-bottom: 1rem;
+}
+.CAD-header {
+  height: 63px;
+  width: 100%;
+  background-color: #004b8e;
+  font-family: Poppins-SemiBold;
+  font-size: 20px;
+  padding: 1rem 1rem 0rem 1rem;
+  color: #ffffff !important;
+}
+
+.Unit {
+  height: 42px;
+  padding: 10px 0 0 10px;
+  background-color: #f5f8ff;
+  font-family: Poppins-SemiBold;
+}
+.left {
+  /* width: 50%;
+  float: left; */
+  padding: 10px;
+}
+.right {
+  /* width: 50%;
+  float: left; */
+  padding: 10px;
+}
+.Arrow {
+  width: 10px;
+  height: 6px;
+  float: right;
+  position: relative;
+  bottom: 21px;
+  right: 10px;
+}
+.form-label {
+  font-family: Poppins-Medium;
+  font-size: 14px !important;
+  color: #000105;
+  margin-top: 7px;
+}
+.part2 {
+  width: 100%;
+  /* height: 212px; */
+  border: solid 1px #f5f8ff;
+  background-color: #ffffff;
+  margin-bottom: 1rem;
+}
+
+.form-check-label {
+  position: relative;
+  left: 8px;
+  bottom: 2px;
+  font-family: Poppins-Medium;
+  color: #000105;
+  font-size: 14px !important;
+}
+.form-select {
+  display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem !important;
+  font-size: 1rem !important;
+  font-weight: 400 !important;
+  line-height: 1.5 !important;
+  color: #212529 !important;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da !important;
+  appearance: none;
+  border-radius: 0.25rem !important;
+  margin-bottom: 8px;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out !important;
+}
+.form-select-error{
+  border: 1px solid red !important;
+}
+.Assembly {
+  color: #fff;
+  width: 111px;
+  height: 42px;
+  background-color: #004b8e !important;
+  float: right;
+  border-radius: none !important;
+  position: relative;
+  margin-bottom: 25px;
+}
+
+.PS-XXX {
+  font-size: 14px;
+  color: #000105;
+  font-family: Poppins-Medium;
+}
+
+.Arrow1 {
+  width: 10px;
+  height: 6px;
+  position: relative;
+  left: 12px;
+}
+
+.navbar-brand {
+  font-family: Poppins-SemiBold;
+  color: #000105;
+  font-size: 18px;
+}
+.Scrap {
+  font-family: Poppins-SemiBold;
+  color: #000105;
+  font-size: 14px;
+}
+/* @media only screen and (max-width: 567.98px) {
+  .AdminBox {
+    margin: 0;
+  }
+} */
+.form-select:focus {
+  box-shadow: 0 0 0 0.03rem rgb(13 110 253 / 25%) !important;
+}
+.disablebtn{
+  margin-bottom: 10px;
+}
+.warningError{
+  position: relative;
+  justify-content: center;
+  width: 4em;
+  min-width: 4em;
+  height: 4em;
+  margin: 2.5em auto .6em;
+}

@@ -1,0 +1,58 @@
+{
+    "SALVAJOR": [
+      {
+        "id": 54,
+        "category": "DisposerCollarSize",
+        "categoryId": "1",
+        "value": "SALVAJOR 6.5",
+        "desc": "SALVAJOR 6.5",
+        "hide": "n"
+      }
+    ],
+    "INSINKERATOR": [
+      {
+        "id": 56,
+        "category": "DisposerCollarSize",
+        "categoryId": "3",
+        "value": "ISE #5",
+        "desc": "ISE #5",
+        "hide": "n"
+      },
+      {
+        "id": 57,
+        "category": "DisposerCollarSize",
+        "categoryId": "4",
+        "value": "ISE #6",
+        "desc": "ISE #6",
+        "hide": "n"
+      },
+      {
+        "id": 58,
+        "category": "DisposerCollarSize",
+        "categoryId": "5",
+        "value": "ISE #7",
+        "desc": "ISE #7",
+        "hide": "n"
+      }
+    ],
+    "HOBART": [
+      {
+        "id": 59,
+        "category": "DisposerCollarSize",
+        "categoryId": "6",
+        "value": "Hobart 7",
+        "desc": "Hobart 7",
+        "hide": "n"
+      }
+    ],
+    "Salvajor":[
+      {
+        "id": 60,
+        "category": "DisposerCollarSize",
+        "categoryId": "8",
+        "value": "SALVAJOR 6.5",
+        "desc": "TBD/info not available",
+        "hide": "n"
+      }
+    ]
+} 

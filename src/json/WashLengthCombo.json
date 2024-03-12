@@ -1,0 +1,102 @@
+{
+    "PS3": [
+      {
+        "id": 84,
+        "category": "WashSinkLength",
+        "categoryId": "4",
+        "value": "30",
+        "desc": "30\"",
+        "hide": "n"
+      },
+      {
+        "id": 85,
+        "category": "WashSinkLength",
+        "categoryId": "5",
+        "value": "36",
+        "desc": "36\"",
+        "hide": "n"
+      },
+      {
+        "id": 86,
+        "category": "WashSinkLength",
+        "categoryId": "6",
+        "value": "42",
+        "desc": "42\"",
+        "hide": "n"
+      },
+      {
+        "id": 87,
+        "category": "WashSinkLength",
+        "categoryId": "7",
+        "value": "48",
+        "desc": "48\"",
+        "hide": "n"
+      }
+    ],
+    "PS6": [
+      {
+        "id": 84,
+        "category": "WashSinkLength",
+        "categoryId": "4",
+        "value": "30",
+        "desc": "30\"",
+        "hide": "n"
+      },
+      {
+        "id": 85,
+        "category": "WashSinkLength",
+        "categoryId": "5",
+        "value": "36",
+        "desc": "36\"",
+        "hide": "n"
+      },
+      {
+        "id": 86,
+        "category": "WashSinkLength",
+        "categoryId": "6",
+        "value": "42",
+        "desc": "42\"",
+        "hide": "n"
+      },
+      {
+        "id": 87,
+        "category": "WashSinkLength",
+        "categoryId": "7",
+        "value": "48",
+        "desc": "48\"",
+        "hide": "n"
+      },
+      {
+        "id": 88,
+        "category": "WashSinkLength",
+        "categoryId": "8",
+        "value": "54",
+        "desc": "54\"",
+        "hide": "n"
+      },
+      {
+        "id": 89,
+        "category": "WashSinkLength",
+        "categoryId": "9",
+        "value": "60",
+        "desc": "60\"",
+        "hide": "n"
+      },
+      {
+        "id": 90,
+        "category": "WashSinkLength",
+        "categoryId": "10",
+        "value": "66",
+        "desc": "66\"",
+        "hide": "n"
+      },
+      {
+        "id": 91,
+        "category": "WashSinkLength",
+        "categoryId": "11",
+        "value": "72",
+        "desc": "72\"",
+        "hide": "n"
+      }
+    ]
+}

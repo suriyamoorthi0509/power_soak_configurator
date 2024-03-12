@@ -1,0 +1,61 @@
+{
+    "PS-50 CONTROL, NO HEAT_2HP_208V/1P_Yes_PS3": [
+      
+      
+        {
+          "id": 84,
+          "category": "WashSinkLength",
+          "categoryId": "4",
+          "value": "30",
+          "desc": "30\"",
+          "hide": "n"
+        }
+      
+    ],
+    "PS-50 CONTROL, NO HEAT_2HP_208V/1P_No_PS3": [
+      {
+        "id": 84,
+        "category": "WashSinkLength",
+        "categoryId": "4",
+        "value": "30",
+        "desc": "30\"",
+        "hide": "n"
+      }
+    
+    ],
+    "PS-200 STANDARD CONTROL W/HEAT_2HP_208V/1P_Yes_PS6": [
+      {
+        "id": 84,
+        "category": "WashSinkLength",
+        "categoryId": "4",
+        "value": "30",
+        "desc": "30\"",
+        "hide": "n"
+      },
+      {
+        "id": 85,
+        "category": "WashSinkLength",
+        "categoryId": "4",
+        "value": "36",
+        "desc": "36\"",
+        "hide": "n"
+      },
+      {
+        "id": 86,
+        "category": "WashSinkLength",
+        "categoryId": "4",
+        "value": "42",
+        "desc": "42\"",
+        "hide": "n"
+      },
+      {
+        "id": 87,
+        "category": "WashSinkLength",
+        "categoryId": "4",
+        "value": "48",
+        "desc": "48\"",
+        "hide": "n"
+      }
+    
+    ]
+}

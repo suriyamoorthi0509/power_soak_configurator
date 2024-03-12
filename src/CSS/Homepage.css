@@ -1,0 +1,30 @@
+.nav-tabs {
+  border-bottom: 0px !important;
+  display: flex;
+  justify-content: space-between;
+  margin: 1px !important;
+}
+.style2 {
+  flex: 1;
+  text-align: center;
+  color: #000105;
+}
+.container{
+  margin-left: 0px !important;
+}
+ 
+.namedashbord{
+  font-size:24px;
+ text-align: center;
+ 
+  color: #004b8e;
+  margin-right: 50px;
+  margin-left: 5px;
+}
+.icon12{
+  margin-left: 100px;
+
+}
+.usernameicon{
+  color: #004b8e;
+}

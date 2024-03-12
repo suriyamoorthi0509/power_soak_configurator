@@ -1,0 +1,284 @@
+.signinbackground {
+  /* background-image: url("background.png");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+
+  height: 100vh;
+
+  background-color: #004b8e;
+  display: flex;
+  align-items: center;
+}
+
+.box {
+  width: 477px;
+  height: 443px;
+  /* padding: 115px 77px 55px; */
+  border-radius: 10px;
+  box-shadow: 0 0 6px 0 rgb(0 0 0 / 16%);
+  border: solid 1px #e0e0eb;
+  background-color: #ffffff;
+  margin: 0 auto;
+  padding: 3rem;
+}
+.Mainlogo {
+  margin: 0 28px;
+  width: 275px;
+  height: 36px;
+  object-fit: contain;
+}
+.Rocket {
+  width: 232px;
+  height: 154px;
+  margin: 3px 37px;
+  /* margin: 0 auto; */
+  object-fit: contain;
+}
+.label {
+  margin: 0 241px 13px 0;
+  font-family: Poppins-SemiBold;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: 0.01px;
+  color: #004b8e;
+}
+
+.form-group {
+  position: relative;
+  padding-bottom: 18px;
+}
+.User
+{
+  position: relative;
+  padding-bottom: 10px;
+}
+.form-control {
+  font-size: 0.8rem;
+}
+.parentButton {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.Button1
+{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+.Forgot-password {
+  font-family: Poppins-Medium;
+  font-size: 12px;
+  color: #ffffff;
+  text-decoration: none;
+}
+.Signinbutton {
+  width: 20rem;
+  padding: 8px;
+  border: none;
+  border-radius: 10px;
+  background-color: #ffac33eb;
+  background-color: #eb784beb;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  font-family: Poppins-SemiBold;
+  font-size: 14px;
+}
+
+.Signoutbutton {
+  width: 10rem;
+  padding: 8px;
+  border: none;
+  border-radius: 10px;
+  background-color: #eb784beb;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  font-family: Poppins-SemiBold;
+  font-size: 14px;
+}
+.refreshbutton{
+  width: 10rem;
+  padding: 8px;
+  border: none;
+  border-radius: 10px;
+  background-color: #eb784beb;
+  align-items: center;
+  text-align: center;
+  color: #ffffff;
+  font-family: Poppins-SemiBold;
+  font-size: 14px;
+  margin-right: 10px;
+}
+.form-group {
+  position: relative;
+}
+.usericon {
+  position: absolute;
+  bottom: 28px;
+  right: 14px;
+  width: 14px;
+  height: 16px;
+}
+.lockicon {
+  position: absolute;
+  bottom: 28px;
+  right: 14px;
+  width: 14px;
+  height: 16px;
+}
+.usericon1 {
+  position: absolute;
+  bottom: 19px;
+  right: 14px;
+  width: 14px;
+  height: 16px;
+}
+.lockicon1 {
+  position: absolute;
+  bottom: 19px;
+  right: 14px;
+  width: 14px;
+  height: 16px;
+}
+
+.welcomenote {
+  text-align: center;
+  font-family: Poppins-SemiBold;
+  color: #004b8e;
+}
+.error {
+  font-family: Poppins-Regular;
+  font-size: 8px;
+  color: #ffffff;
+}
+/* .welcomenote {
+  text-align: center;
+  font-family: Poppins-SemiBold;
+  color: #004b8e;
+} */
+.modal{
+  display: flex;
+  align-items: center;
+}
+
+.welcomeerror {
+  text-align: center;
+  padding: 8px;
+  font-family: Poppins-SemiBold;
+  color: #050049;
+}
+.credential {
+  font-size: 11px !important;
+  font-family: Poppins-Regular;
+}
+@media only screen and (max-width: 575.98px) {
+  .box {
+    width: 377px;
+    height: 417px;
+  }
+  .label {
+    margin: 0 202px 13px 0;
+  }
+  .signinbackground {
+    padding: 66px 0px;
+  }
+}
+
+
+.react-hint {
+	padding: 5px;
+	position: absolute;
+	z-index: 9999;
+	cursor: default;
+	animation: .5s fadeIn;
+}
+
+.react-hint__content {
+	padding: 10px;
+	border-radius: 5px;
+	background: #000;
+	color: #fff;
+}
+
+.react-hint:after {
+	content: '';
+	width: 0;
+	height: 0;
+	margin: auto;
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	border: 5px solid transparent;
+}
+
+.react-hint--top:after {
+	top: auto;
+	border-bottom: none;
+	border-top-color: #000;
+}
+
+.react-hint--left:after {
+	left: auto;
+	border-right: none;
+	border-left-color: #000;
+}
+
+.react-hint--right:after {
+	right: auto;
+	border-left: none;
+	border-right-color: #000;
+}
+
+.react-hint--bottom:after {
+	bottom: auto;
+	border-top: none;
+	border-bottom-color: #000;
+}
+
+@keyframes fadeIn {
+	from {
+		opacity: 0;
+	}
+
+	to {
+		opacity: 1;
+	}
+}
+
+.EmailShow{
+
+  margin-bottom: 12px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+  }
+  
+  .Button2 {
+  
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    
+  
+  }
+  .box1{
+    width: 477px;
+    height: 253px;
+    /* padding: 115px 77px 55px; */
+    border-radius: 10px;
+    box-shadow: 0 0 6px 0 rgb(0 0 0 / 16%);
+    border: solid 1px #e0e0eb;
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 3rem;
+  }
